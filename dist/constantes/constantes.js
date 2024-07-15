@@ -1,15 +1,15 @@
 export const PRIORIDADES = {
     alta: {
         texto: 'Alta',
-        value: 'Alta',
+        value: 'alta',
     },
-    media: {
+    média: {
         texto: 'Média',
-        value: 'Média',
+        value: 'média',
     },
     baixa: {
         texto: 'Baixa',
-        value: 'Baixa',
+        value: 'baixa',
     },
 };
 export const CATEGORIAS = {
@@ -17,11 +17,11 @@ export const CATEGORIAS = {
         texto: 'Pessoal',
         value: 'pessoal',
     },
-    familia: {
+    família: {
         texto: 'Família',
         value: 'família',
     },
-    saude: {
+    saúde: {
         texto: 'Saúde',
         value: 'saúde',
     },

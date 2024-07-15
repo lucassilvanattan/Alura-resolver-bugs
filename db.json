@@ -1,130 +1,28 @@
 {
   "tasks": [
     {
-      "titulo": "Tarefa 1",
+      "id": "e6a0",
+      "titulo": "Terminar projeto",
+      "prioridade": "baixa",
+      "descricao": "sdasdasdasdasd",
+      "categoria": "trabalho",
+      "data": "14/07/2024"
+    },
+    {
+      "id": "aa34",
+      "titulo": "Terminar com minha namo",
       "prioridade": "alta",
-      "descricao": "blablablabla",
-      "id": 1
+      "descricao": "",
+      "categoria": "pessoal",
+      "data": "13/07/2024"
     },
     {
-      "titulo": "Tarefa 2",
-      "prioridade": "media",
-      "descricao": "blablablabla",
-      "id": 2
-    },
-    {
-      "titulo": "213131231",
-      "prioridade": "Baixa",
-      "descricao": "21312312312",
-      "id": 3
-    },
-    {
-      "titulo": "2313123123",
-      "prioridade": "Media",
-      "descricao": "2312312312312314233rfwffgfgfg",
-      "id": 4
-    },
-    {
-      "titulo": "2313123123",
-      "prioridade": "Media",
-      "descricao": "2312312312312314233rfwffgfgfg",
-      "id": 5
-    },
-    {
-      "titulo": "123123",
-      "prioridade": "Baixa",
-      "descricao": "21312312313",
-      "id": 6
-    },
-    {
-      "titulo": "2e123",
-      "prioridade": "Baixa",
-      "descricao": "23123",
-      "id": 7
-    },
-    {
-      "titulo": "gyjgyigf",
-      "prioridade": "Baixa",
-      "descricao": "fgxdf",
-      "id": 8
-    },
-    {
-      "titulo": "gyjgyigf",
-      "prioridade": "Baixa",
-      "descricao": "fgxdf",
-      "id": 9
-    },
-    {
-      "titulo": "gyjgyigf",
-      "prioridade": "Baixa",
-      "descricao": "fgxdf",
-      "id": 10
-    },
-    {
-      "titulo": "gyjgyigf",
-      "prioridade": "Baixa",
-      "descricao": "fgxdf",
-      "id": 11
-    },
-    {
-      "titulo": "gyjgyigf",
-      "prioridade": "Baixa",
-      "descricao": "fgxdf",
-      "id": 12
-    },
-    {
-      "titulo": "gyjgyigf",
-      "prioridade": "Baixa",
-      "descricao": "fgxdf",
-      "id": 13
-    },
-    {
-      "titulo": "gyjgyigf",
-      "prioridade": "Baixa",
-      "descricao": "fgxdf",
-      "id": 14
-    },
-    {
-      "titulo": "gyjgyigf",
-      "prioridade": "Baixa",
-      "descricao": "fgxdf",
-      "id": 15
-    },
-    {
-      "titulo": "gyjgyigf",
-      "prioridade": "Baixa",
-      "descricao": "fgxdf",
-      "id": 16
-    },
-    {
-      "titulo": "ghyu",
-      "prioridade": "Média",
-      "descricao": "cnch",
-      "id": 17
-    },
-    {
-      "titulo": "ghyu",
-      "prioridade": "Média",
-      "descricao": "cnch",
-      "id": 18
-    },
-    {
-      "titulo": "ghyu",
-      "prioridade": "Média",
-      "descricao": "cnch",
-      "id": 19
-    },
-    {
-      "titulo": "ghyu",
-      "prioridade": "Média",
-      "descricao": "cnch",
-      "id": 20
-    },
-    {
-      "titulo": "Curso de Ciência da Compu",
-      "prioridade": "Média",
-      "descricao": "plano de estudo",
-      "id": 21
+      "id": "19db",
+      "titulo": "asdasasd",
+      "prioridade": "alta",
+      "descricao": "asdasdsd",
+      "categoria": "estudos",
+      "data": "26/07/2024"
     }
   ]
 }

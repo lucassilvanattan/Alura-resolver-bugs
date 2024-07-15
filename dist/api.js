@@ -14,7 +14,7 @@ export function capturaTarefasDaAPI() {
         return dadosConvertidos;
     });
 }
-export function cadastraTarefaNaAPI(titulo, prioridade, descricao) {
+export function cadastraTarefaNaAPI(titulo, prioridade, descricao, categoria, data) {
     return __awaiter(this, void 0, void 0, function* () {
         const resposta = yield fetch('http://localhost:3000/tasks', {
             method: 'POST',
@@ -23,8 +23,10 @@ export function cadastraTarefaNaAPI(titulo, prioridade, descricao) {
             },
             body: JSON.stringify({
                 titulo: titulo,
-                prioridade: prioridade,
+                prioridade: prioridade.toLowerCase(),
                 descricao: descricao,
+                categoria: categoria,
+                data: data
             }),
         });
         const respostaConvertida = yield resposta.json();
