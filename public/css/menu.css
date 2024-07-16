@@ -157,3 +157,16 @@
 .menu__lateral:hover .menu__lateral-rodape {
   opacity: 1;
 }
+
+.cursos {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+
+  
+}
+
+.curso-format{
+  width: 400px;
+  height: 300px;
+}
